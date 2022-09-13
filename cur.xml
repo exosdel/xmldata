@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <root>
-  
-  <subsidary>
-    <sub>KUL</sub>
-    <currency>2,613</currency>
-  </subsidary>
+  <info>
+    <updated>19 November 2022, 06:20:40</updated>
+    <quarter>Q4</quarter>
+    <name>Sebastian Sohlberg</name>
+  </info>
   
   <subsidary>
     <sub>AUD</sub>

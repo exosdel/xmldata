@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  
+  <subsidary>
+    <sub>BULL</sub>
+    <currency>20.613</currency>
+  </subsidary>
+
+  <subsidary>
+    <sub>AUD</sub>
+    <currency>0.613</currency>
+  </subsidary>
+  
+  <subsidary>
+    <sub>BRL</sub>
+    <currency>0.1573</currency>
+  </subsidary>
+  
+  <subsidary>
+    <sub>CHF</sub>
+    <currency>0.9269</currency>
+  </subsidary>
+  
+  <subsidary>
+    <sub>CNY</sub>
+    <currency>0.1245</currency>
+  </subsidary>
+  
+  <subsidary>
+    <sub>EUR</sub>
+    <currency>1</currency>
+  </subsidary>
+  
+  <subsidary>
+    <sub>GBP</sub>
+    <currency>1.0987</currency>
+  </subsidary>
+  
+</root>

@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <root>
-
+  
+  <subsidary>
+    <sub>KUL</sub>
+    <currency>2,613</currency>
+  </subsidary>
+  
   <subsidary>
     <sub>AUD</sub>
     <currency>0,613</currency>
